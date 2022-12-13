@@ -6,9 +6,9 @@
 [<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">Server](https://github.com/There-is-no-such-thing-as-a-bad-dog/yolov5_flask_jetson-nano)
 
 ### 만든이
-[최재혁](https://github.com/jjaegii) - 학습 및 추론, 데이터 시각화
-[안수진](https://github.com/ssuzyn) - 데이터 전처리
-[신혜민](https://github.com/heymin2) - 어플리케이션 제작
+[최재혁](https://github.com/jjaegii) - 학습 및 추론, 데이터 시각화<div/>
+[안수진](https://github.com/ssuzyn) - 데이터 전처리<div/>
+[신혜민](https://github.com/heymin2) - 어플리케이션 제작<div/>
 
 ## 1. 프로젝트의 목적, 개발동기 및 필요성
  1인 가구의 증가, 고령화 등 세계 인구 구조의 변화로 반려동물 양육 인구가 증가하고, 반려동물을 가족처럼 생각하는 문화가 확산되었다. 코로나19로 인해 위축된 경기에도 불구하고 글로벌 펫케어 시장은 지속적으로 성장하고 확대되었다는 것을 뉴스를 통해서 볼 수 있다. 관련된 펫 테크 선행기술에서는 관찰하는 반려동물의 이상행동이나 움직임을 탐지하면 해당 영상을 녹화로 남겨두어 사용자에게 제공하거나, 원격으로 대화 및 소통하는 서비스가 기본적인 주요 기능이며 반려동물의 모든 활동을 확인할 수 있는 활동 로그를 제공하는 기능은 많이 개발되지 않은 것을 확인할 수 있었다.
