@@ -12,8 +12,10 @@
 [신혜민](https://github.com/heymin2) - 어플리케이션 제작<div/>
 
 ## 결과물 사진
-![image](https://user-images.githubusercontent.com/77189999/207287530-6dc6867e-1191-4e48-98bc-4503942fc70e.png) **사진1** 메인화면(왼쪽) 데이터베이스 시각화(오른쪽) <div/>
-![image](https://user-images.githubusercontent.com/77189999/207287577-a94a0f2a-987b-4473-8eec-dcfc3af855cf.png) **사진 2** 이상행동(왼쪽) 앱푸시 알림(오른쪽)
+![image](https://user-images.githubusercontent.com/77189999/207287530-6dc6867e-1191-4e48-98bc-4503942fc70e.png)
+**사진1** 메인화면(왼쪽) 데이터베이스 시각화(오른쪽) <div/>
+![image](https://user-images.githubusercontent.com/77189999/207287577-a94a0f2a-987b-4473-8eec-dcfc3af855cf.png)
+**사진 2** 이상행동(왼쪽) 앱푸시 알림(오른쪽)
 
 
 ## 1. 프로젝트의 목적, 개발동기 및 필요성
