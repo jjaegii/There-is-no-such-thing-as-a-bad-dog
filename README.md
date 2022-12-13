@@ -6,6 +6,7 @@
 [<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">Server](https://github.com/There-is-no-such-thing-as-a-bad-dog/yolov5_flask_jetson-nano)
 
 ### 만든이
+
 [최재혁](https://github.com/jjaegii) - 학습 및 추론, 데이터 시각화<div/>
 [안수진](https://github.com/ssuzyn) - 데이터 전처리<div/>
 [신혜민](https://github.com/heymin2) - 어플리케이션 제작<div/>
