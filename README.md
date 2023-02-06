@@ -1,9 +1,8 @@
 # 2022년 기업애로해결 프로젝(희망이음 경진대회) 반려동물 이상행동 분석 서비스
 
-[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">Client](https://github.com/There-is-no-such-thing-as-a-bad-dog/DOOOGG)
+[<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/There-is-no-such-thing-as-a-bad-dog/DOOOGG)
 
-
-[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">Server](https://github.com/There-is-no-such-thing-as-a-bad-dog/yolov5_flask_jetson-nano)
+[<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/There-is-no-such-thing-as-a-bad-dog/yolov5_flask_jetson-nano)
 
 ### 만든이
 
@@ -13,8 +12,10 @@
 
 ## 결과물 사진
 ![image](https://user-images.githubusercontent.com/77189999/207287530-6dc6867e-1191-4e48-98bc-4503942fc70e.png)
+
 **사진1** 메인화면(왼쪽) 데이터베이스 시각화(오른쪽) <div/>
 ![image](https://user-images.githubusercontent.com/77189999/207287577-a94a0f2a-987b-4473-8eec-dcfc3af855cf.png)
+
 **사진 2** 이상행동(왼쪽) 앱푸시 알림(오른쪽)
 
 
